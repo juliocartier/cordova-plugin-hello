@@ -1,0 +1,28 @@
+{
+    "name": "cordova-plugin-hello",
+    "version": "0.1.0",
+    "description": "A sample for a new cordova plugin",
+    "cordova": {
+      "id": "cordova-plugin-hello",
+      "platforms": [
+        "android"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/juliocartier/cordova-plugin-hello.git"
+    },
+    "keywords": [
+      "cordova",
+      "plugin",
+      "hello",
+      "ecosystem:cordova",
+      "cordova-android"
+    ],
+    "author": "Julio Cartier",
+    "license": "Apache-2",
+    "bugs": {
+      "url": "https://github.com/juliocartier/cordova-plugin-hello/issues"
+    },
+    "homepage": "https://github.com/juliocartier/cordova-plugin-hello#readme"
+  }
